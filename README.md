@@ -1,17 +1,7 @@
-<div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/cyan-addon-banner.png?raw=true"/>
-</div>
+# Cyanite
+A fork of [Cyan](https://betterdiscord.app/theme/Cyan), with a more Discord-like UI
 
-# Cyan
-Sleek and clean BetterDiscord theme, with custom background support
-
-[Get it on BetterDiscord](https://betterdiscord.app/theme/Cyan)
-
-Also available through the ThemeRepo plugin by DevilBro
-
-Cyan is a sleek theme that aims to be clean, customizable and nice to the eyes.
-
-[Addon themes for Cyan are available here](https://github.com/DaBluLite/Cyan/tree/master/Addons)
+[Addon themes for Cyan/Cyanite are available here](https://github.com/DaBluLite/Cyan/tree/master/Addons)
 
 # Special thanks to:
 * [@ObjectiveSlayer](https://github.com/ObjectiveSlayer)/carrot#8812
@@ -21,8 +11,5 @@ Cyan is a sleek theme that aims to be clean, customizable and nice to the eyes.
 
 # Screenshots
 <div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-1.png?raw=true"/>
-</div>
-<div align='center'>
-<img src="https://github.com/DaBluLite/Cyan/blob/master/screenshots/cyan-screenshot-2.png?raw=true"/>
+<img src="https://cdn.discordapp.com/attachments/123136820409139200/1021062954063503470/unknown.png"/>
 </div>
